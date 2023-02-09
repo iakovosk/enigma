@@ -6,6 +6,14 @@ data/
 Contains cyphers for all rotors and reflectors
 
 
+Can be customised with the 5 different settings:
+Ring order - the order of the 3 rotors
+Initial position - the starting position of the rotors
+Ring setting - the positioning of the wiring compared to the rotors themselves
+Reflector - the reflector used to feed the output of the last rotor as an input of the same rotor
+Plugboard Setting - the optional extra letter substitutions.
+
+To be provided as input:
 # I:1 II:1 III:1 - QA ED FG BO LP CS RT UJ HN ZW
 THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG
 VAUFLPVWMQIVFWNPCGPGVPIMKUWZREEDTTQ
